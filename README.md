@@ -2,7 +2,7 @@
 
 Video explaining how to create a menu bar in ReactJS
 
-[https://youtu.be/bB0vneEWIHY](Youtube)
+[Youtube](https://youtu.be/bB0vneEWIHY)
 
 # Getting Started with Create React App
 
