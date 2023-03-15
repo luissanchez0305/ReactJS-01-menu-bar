@@ -1,4 +1,7 @@
-# EsferaSoluciones - Video explaining how to create a menu bar in ReactJS
+# EsferaSoluciones 
+
+Video explaining how to create a menu bar in ReactJS
+
 [https://youtu.be/bB0vneEWIHY](Youtube)
 
 # Getting Started with Create React App
